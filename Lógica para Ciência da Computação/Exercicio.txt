@@ -1,0 +1,64 @@
+Ex.1 Quem é quem?
+
+João Pedro  Silvio
+PROFESSOR advogado MEDICO
+
+1 - O professor é filho único
+2 - O professor ganha menos que os outros dois
+3 - Sílvio é casado (com a irmã de Pedro)
+4 - Pedro tem uma irmã
+5 - Silvio ganha mais que o advogado
+6 - (1,3,4) o professor não é Pedro
+7 - (2,5) o professor não é silvio, pois ele ganha menos que os outros e Silvio ganha mais que alguém.
+8 - (6,7) o professor é João
+9 - (5) silvio não pode ser o advogado e (8) nem o professor, logo ele é o médico
+10 - e sabendo disso (8,9) concluímos que Pedro é o advogado.
+
+Ex.2 Cavalos de corrida
+
+Trovão Tufão Tornado  Tufão não venceu
+ Baltasar Mateus luis  
+que cavalo venceu?
+
+1- Tufão desistiu
+2- Mateus tem um cavalo castanho e branco com 3 anos
+3- Trovão já ganhou 20 mil em competições
+4- O cavalo de Baltasar já tinha perdido muitas vezes, mas dessa vez ele quase ganhou
+5- O cavalo que venceu a corrida é preto
+6- Esta foi a primeira corrida do cavalo de Luís
+7- (4,5) o cavalo de Baltasar não é preto e não é tufão
+8- (2,4) O cavalo de Mateus não venceu
+9 - (1,5) Tufão não é preto e não ganhou
+10- (1,6) tufão não é cavalo de Luis
+11- (3,6) Trovão não é cavalo de Luis
+12- (10,11) O Cavalo de Luis é tornado
+13- Se o cavalo de Baltasar não é tornado(12) e nem Tufão(7) só pode ser Trovão
+14- (12,13) Tufão é cavalo de Mateus
+15- (4)O cavalo de baltazar (Trovão(13))não ganhou, e Tufão desistiu, então Tornado ganhou.
+
+
+Ex.3 Matemáticos
+
+Geomatra Algebrista Topologista Estatístico
+Maneco Tonico Leleca Nonoca
+Sucahtua real Sucahtua cheio meio Sucahtua e fufu
+
+Nonoca: fufu, topologista
+maneco: meia sucahta, 
+tonico: suhcata real, 
+
+(1) A mão de Tonico é melhor que a mão de Nonoca
+(2) Leleca não tem fufu
+(3) O Algebrista e topologista não tem a melhor ou pior mão
+(4) A mão de Maneco é melhor que a mão do topologista
+(5) A mão de Maneco é pior que a do algebrista
+(6) Tonico não é o algebrista
+(7) 3 diz que o agebrista tem Sucahtua cheio ou meio
+(8) 3 diz que topologista tem sucahtua cheio ou meio
+(9) (1,4) Maneco não tem fufu, Tonico tbmm não
+(10) (2,9) Nonoca tem fufu
+(11) maneco não é o topologista nem algebrista, não tem Sucahta cheia nem meia, e como (10) Maneco não tem fufu e (5) logo maneco tem meia Sucahta
+(12) (7,11) O algebrista tem sucahta cheia
+(13) (4,11) Nonoca é topologista
+(14) (6,12) Tonico não tem suhcata cheia.(11)não tem meia suhcata. (1)Tonico tem suhcata real
+(15) (2,14,11)não tem fufu, nem suhcata real,nem mia, logo leleca tem suhcara cheia

@@ -1,0 +1,33 @@
+Sobrenome: Holandês - Inglês - Feijão - Pereira
+Nome: Holandes, Célio, Stênio, Simão
+Disciplina: Matemática - Holandês - Química - História
+
+Pedro Holandês, matemática, química
+Stênio Pereira, holandês, química
+Simão Feijão, holandês, história
+Célio Inglês, holandês, história
+
+[1] 3 prof ensinam holandês.
+[2] Existe apenas um prof de matemática.
+[3] Existem 2 prof de química.
+[4] Simão e o sr Inglês ensinam história.
+[5] Pedro não ensina holandês.
+[6] Stênio é o professor de química.
+[7] O sr holandes não ensina nenhuma disciplina que é 		ministrada por Célio ou sr Feijão.
+
+[8] 1 -> 1 prof não ensina holandês. 
+[9] 1,5 -> Célio, Stênio, Simão ensinam holandês.
+[10] 7 -> sr Holandês não é Célio.
+[11] 7,9 -> sr Holandês não ensina holandês.
+[12] 5,11 -> Pedro é sr Holandês.
+[13] 4,9 -> Simão ensina história e holandês.
+[14] 6,9,7 -> sr Pedro Holandes não ensina química nem 				história.
+[15] 14 -> Pedro Holandês ensina matemática.
+[16] 1,6,11 -> Stênio ensina química e holandes.
+[17] (2,5)-> Célio não ensina Matemática.
+[18] 13 -> Simão ensina holandes então Holandes (11) 		não ensina holandes, logo holandes n poderia 			ensinar história por ser junto a Simão que 				ensina(7).
+[19] 18,15 -> Holandes ensina matemática e 					química.(6,12) 	diz que seu nome é Pedro, logo (4) 		elimina a possibilidade dele ensinar história então 	ele só pode ensinar química.
+[20] 6,9 Stenio ensina holandes e quimica, e (7) holandes não ensina com sr Feijão, logo esse n é seu sobrenome. (4) diz que Inglês ensina história, logo esse tbm não é seu sobrenome pois ele não ensina, então Stenio só pode ser o sr Pereira.
+[21] (12) diz que pedro holandes,(20)diz Stenio Pereira. (4) que simão n é sr Inglês, logo Simão é sr Feijão.
+[22] 21 Célio é sr Inglês.
+[23] Célio ensina história.
